@@ -1,0 +1,32 @@
+{
+  "events": [
+    {
+      "repository": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a strongly typed programming language that builds on JavaScript.",
+      "language": "TypeScript",
+      "starred_at": "2026-09-28"
+    },
+    {
+      "repository": "vitejs/vite",
+      "url": "https://github.com/vitejs/vite",
+      "description": "Next generation frontend tooling for fast development and optimized builds.",
+      "language": "TypeScript",
+      "starred_at": "2026-09-21"
+    },
+    {
+      "repository": "pallets/flask",
+      "url": "https://github.com/pallets/flask",
+      "description": "A lightweight WSGI web application framework for Python.",
+      "language": "Python",
+      "starred_at": "2026-09-12"
+    },
+    {
+      "repository": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapidly building custom user interfaces.",
+      "language": "CSS",
+      "starred_at": "2026-09-03"
+    }
+  ]
+}
